@@ -1,0 +1,31 @@
+.navbar{
+    background-color: black;
+    color: white;
+    overflow: auto;
+}
+
+*{
+    font-family: 'Inconsolata', monospace;
+    
+}
+
+.navbar{
+    margin-bottom: 30px;
+}
+
+.font{
+    font-size: 1.4rem;
+    color: white;
+}
+
+.navbar-brand:hover{
+    color: rgb(6, 168, 237)
+}
+
+.nav-link:hover{
+    color: rgb(6, 168, 237)
+}
+
+.nav-item{
+    cursor: pointer;
+}
